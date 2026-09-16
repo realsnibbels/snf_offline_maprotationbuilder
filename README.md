@@ -2,6 +2,7 @@
 
 A practical User Interface to generate anything to do with map rotation with ease. 
 
+- NEW: Auto Sort selected maps (sorting them so its never the same map twice)
 - Curate a map rotation
 - Change to infantry / hardcore mode with a couple clicks
 - Change ordered / random mode
